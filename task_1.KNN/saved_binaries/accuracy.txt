@@ -1,0 +1,18 @@
+Train augmentation:
+Accuracy on rotate: 98.04 %
+Accuracy on shift: 97.83 %
+Accuracy on gauss: 97.78999999999999 %
+Accuracy on rotate+shift: 98.35000000000001 %
+Accuracy on rotate+gauss: 98.04 %
+Accuracy on shift+gauss: 97.78999999999999 %
+Accuracy on rotate+shift+gauss: 98.15 %
+
+Test augmentation:
+Accuracy on rotate: 97.6 %
+Accuracy on shift: 98.16 %
+Accuracy on gauss: 97.38 %
+Accuracy on rotate+shift: 97.7 %
+Accuracy on rotate+gauss: 97.63 %
+Accuracy on shift+gauss: 97.86 %
+Accuracy on rotate+shift+gauss: 97.76 %
+Accuracy on no_aug: 97.52 %
